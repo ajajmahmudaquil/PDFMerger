@@ -76,7 +76,7 @@ The merged file will be saved as **`merged-pdf.pdf`** in the same directory.
 
 **Ajaj Mahmud Aquil**
 - GitHub: [@ajajmahmudaquil](https://github.com/ajajmahmudaquil)
-- Portfolio: [aquils-portfolio.vercel.app](http://portfolio.ajajaquil.dev/)
+- Portfolio: [aquils-portfolio](http://portfolio.ajajaquil.dev/)
 
 ---
 
